@@ -22,9 +22,9 @@ Once the application is running, you can access the API endpoint to retrieve the
 
 GET /getTimeStories
 ## Parameters
-num_stories (optional): Number of latest stories to retrieve. Default is set to 6 if not provided.
-Example usage:
-GET /getTimeStories?num_stories=10
+num_stories (optional): Number of latest stories to retrieve. Default is set to 6 if not provided. <br>
+Example usage: <br>
+GET /getTimeStories?num_stories=10 <br>
 This will return the 10 latest stories from Time.com.
 
 ## Endpoint Details
@@ -38,9 +38,9 @@ link: URL link to the full story.
 ## Response
 json
 
-[
-  {
-    "link": "/6590760/indian-opposition-leader-hemant-soren-arrested-elections/",
+[ <br>
+  { <br>
+    "link": "/6590760/indian-opposition-leader-hemant-soren-arrested-elections/", <br>
     "title": "Indian Opposition Leader Arrested Months Before Elections"
   },
   {
