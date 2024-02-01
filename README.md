@@ -41,26 +41,26 @@ json
 [ <br>
   { <br>
     "link": "/6590760/indian-opposition-leader-hemant-soren-arrested-elections/", <br>
-    "title": "Indian Opposition Leader Arrested Months Before Elections"
-  },
-  {
-    "link": "/6590750/taylor-swift-super-bowl-sports-betting-rules/",
-    "title": "Las Vegas: No Betting Allowed on Taylor Swift Attending the Super Bowl"
-  },
-  {
-    "link": "/6590720/new-on-netflix-february-2024/",
-    "title": "What's New on Netflix in February 2024"
-  },
-  {
-    "link": "/6590643/iran-executions/",
-    "title": "Iran Execution Campaign"
-  },
-  {
-    "link": "/6590711/deepfake-protection-federal-bill/",
-    "title": "How a New Bill Could Protect Against Deepfakes"
-  },
-  {
-    "link": "/6590470/csam-ai-tech-ceos/",
-    "title": "AI Complicates Crackdown on Child Abuse Images"
-  }
+    "title": "Indian Opposition Leader Arrested Months Before Elections" <br>
+  }, <br>
+  { <br>
+    "link": "/6590750/taylor-swift-super-bowl-sports-betting-rules/", <br>
+    "title": "Las Vegas: No Betting Allowed on Taylor Swift Attending the Super Bowl" <br>
+  }, <br>
+  { <br>
+    "link": "/6590720/new-on-netflix-february-2024/", <br>
+    "title": "What's New on Netflix in February 2024" <br>
+  }, <br>
+  { <br>
+    "link": "/6590643/iran-executions/", <br>
+    "title": "Iran Execution Campaign" <br>
+  }, <br>
+  { <br>
+    "link": "/6590711/deepfake-protection-federal-bill/", <br>
+    "title": "How a New Bill Could Protect Against Deepfakes" <br>
+  }, <br>
+  { <br>
+    "link": "/6590470/csam-ai-tech-ceos/", <br>
+    "title": "AI Complicates Crackdown on Child Abuse Images" <br>
+  } <br>
 ]
