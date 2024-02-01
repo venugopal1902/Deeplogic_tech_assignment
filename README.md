@@ -29,7 +29,7 @@ This will return the 10 latest stories from Time.com.
 
 ## Endpoint Details
 Endpoint: /getTimeStories
-Method: GET
+Method: GET <br>
 Query Parameters:
 num_stories (optional): Number of latest stories to retrieve. Defaults to 6 if not provided.
 Response: JSON array containing the latest stories with each story having the following attributes:
