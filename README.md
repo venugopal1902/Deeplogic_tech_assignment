@@ -3,14 +3,14 @@ This repository contains a Flask application that serves as an API for retrievin
 
 ## Setup
 Clone the repository to your local machine:
-```bash
+
  git clone <repository-url>
 1. Navigate to the project directory:
 cd <repository-directory>
 
 2. Install the required dependencies using pip:
 
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 
 ## Usage
@@ -35,18 +35,32 @@ num_stories (optional): Number of latest stories to retrieve. Defaults to 6 if n
 Response: JSON array containing the latest stories with each story having the following attributes:
 title: Title of the story.
 link: URL link to the full story.
-## Example Response
+## Response
 json
-Copy code
-[
-    {
-        "title": "Story Title 1",
-        "link": "https://example.com/story1"
-    },
-    {
-        "title": "Story Title 2",
-        "link": "https://example.com/story2"
-    },
-    ...
-]
 
+[
+  {
+    "link": "/6590760/indian-opposition-leader-hemant-soren-arrested-elections/",
+    "title": "Indian Opposition Leader Arrested Months Before Elections"
+  },
+  {
+    "link": "/6590750/taylor-swift-super-bowl-sports-betting-rules/",
+    "title": "Las Vegas: No Betting Allowed on Taylor Swift Attending the Super Bowl"
+  },
+  {
+    "link": "/6590720/new-on-netflix-february-2024/",
+    "title": "What's New on Netflix in February 2024"
+  },
+  {
+    "link": "/6590643/iran-executions/",
+    "title": "Iran Execution Campaign"
+  },
+  {
+    "link": "/6590711/deepfake-protection-federal-bill/",
+    "title": "How a New Bill Could Protect Against Deepfakes"
+  },
+  {
+    "link": "/6590470/csam-ai-tech-ceos/",
+    "title": "AI Complicates Crackdown on Child Abuse Images"
+  }
+]
